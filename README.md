@@ -4,7 +4,6 @@ This repository contains my Java programs and practice work.
 -Java Basics
 -Variables & Data types
 -Input & Output
--Conditional Statements
 -Loops
 -Arrays
 ##About
